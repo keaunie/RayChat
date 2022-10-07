@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774451382988",
+    "project_id": "raychat-tingk",
+    "storage_bucket": "raychat-tingk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774451382988:android:f0d188bb4c496c5d885069",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.RayChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774451382988-1et54imda51agor0pmqb1m8bdv05ku74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNDIo_m3J9gMRb_2t1L74H9Sumq5nkDas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774451382988-1et54imda51agor0pmqb1m8bdv05ku74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
