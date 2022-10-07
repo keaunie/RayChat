@@ -11,6 +11,11 @@
       <excludeFolder url="file://$MODULE_DIR$/starter/build" />
       <excludeFolder url="file://$MODULE_DIR$/starter/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/starter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/starter/android/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/starter/linux/flutter/ephemeral" />
+      <excludeFolder url="file://$MODULE_DIR$/starter/macos/Flutter/ephemeral" />
+      <excludeFolder url="file://$MODULE_DIR$/starter/windows/flutter/ephemeral" />
+      <excludeFolder url="file://$MODULE_DIR$/starter/.idea" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
